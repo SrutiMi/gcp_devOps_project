@@ -1,1 +1,5 @@
-# This is a repository for the GCP-Devops-project
+# Docker flask application
+
+ - This  application is written in python
+ - It shall be deployed on GKE
+ 
